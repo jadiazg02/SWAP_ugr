@@ -2,7 +2,6 @@
 
 ##Ejecucion del comando apache2 -v
 
-https://github.com/joseangeldiazg/SWAP_ugr/blob/master/pantallazosSWAP1/apachev1.png
 
 ![Con titulo](https://github.com/joseangeldiazg/SWAP_ugr/blob/master/pantallazosSWAP1/apachev1.png "En la maquina 1")
 
