@@ -1,6 +1,3 @@
-# Preguntas TEST del tema 2 de SWAP
-
-## Primera pregunta:
 
 <pregunta>
 <enunciado>¿En cuál de los siguientes casos podremos afirmar que nuestra granja web tiene un 100% de disponibilidad?</enunciado>
@@ -11,7 +8,7 @@
         <solucion>D</solucion>
 </pregunta>
 
-## Segunda pregunta:
+
 
 <pregunta>
 <enunciado>Para aumentar considerablemente la disponibilidad de la red será necesario tener redundancia en:</enunciado>
@@ -21,8 +18,6 @@
         <opcionD> Con mejorar la conexión a internet será suficiente.</opcionD>
     <solucion>C</solucion>
 </pregunta>
-
-## Tercera pregunta:
 
 <pregunta>
 <enunciado>Cual de los siguientes eventos no influye en el aumento del stress de un sistema:</enunciado>
