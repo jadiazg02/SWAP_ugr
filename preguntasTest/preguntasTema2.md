@@ -1,0 +1,34 @@
+# Preguntas TEST del tema 2 de SWAP
+
+## Primera pregunta:
+
+<pregunta>
+<enunciado>¿En cuál de los siguientes casos podremos afirmar que nuestra granja web tiene un 100% de disponibilidad?</enunciado>
+        <opcionA>Si nuestra granaja web no ha sufrido caidas de ningun tipo.</opcionA>
+        <opcionB>Si tenemos cuatro caidas programadas y ninguna no-programada.</opcionB>
+        <opcionC>Si tenemos una caida no-programadas y ninguna programada.</opcionC>
+        <opcionD>A y B son ciertas.</opcionD>
+        <solucion>D</solucion>
+</pregunta>
+
+## Segunda pregunta:
+
+<pregunta>
+<enunciado>Para aumentar considerablemente la disponibilidad de la red será necesario tener redundancia en:</enunciado>
+        <opcionA>La conexión a internet y los balanceadores.</opcionA>
+        <opcionB>La conexion a internet, los routers, cortafuegos y balanceadores.</opcionB>
+        <opcionC>La conexion a internet, los servidores y los routers, cortafuegos y balanceadores.</opcionC>
+        <opcionD> Con mejorar la conexión a internet será suficiente.</opcionD>
+    <solucion>C</solucion>
+</pregunta>
+
+## Tercera pregunta:
+
+<pregunta>
+<enunciado>Cual de los siguientes eventos no influye en el aumento del stress de un sistema:</enunciado>
+    <opcionA>Optimizacion del hardware.</opcionA>
+    <opcionB>Cambios en las aplicaciones.</opcionB>
+    <opcionC>Fallos o caídas de algunas partes del sistema</opcionC>
+    <opcionD>Incremento repentino del número de usuarios del sitio</opcionD>
+    <solucion>A</solucion>
+</pregunta>
