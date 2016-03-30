@@ -1,0 +1,26 @@
+<pregunta>
+    <enunciado>¿Qué conocemos como backbone?</enunciado>
+    <opcionA>Un tipo de hub.</opcionA>
+    <opcionB>El eje principal de enlace entre máquinas.</opcionB>
+    <opcionC>La zona segura de la red.</opcionC>
+    <opcionD>Ninguna es cierta.</opcionD>
+    <solucion>B</solucion>
+</pregunta>
+
+<pregunta>
+    <enunciado>¿Cual de los siguientes no es un problema de la configuración sin DMZ?</enunciado>
+    <opcionA>Compartición del ancho de banda.</opcionA>
+    <opcionB>Asegurar los servidores es más complicado.</opcionB>
+    <opcionC>Los servidores están conectados directamente a Internet.</opcionC>
+    <opcionD>Si uno de los servidores se ve comprometido, el resto de recursos puede ser atacado.</opcionD>
+    <solucion>C</solucion>
+</pregunta>
+
+<pregunta>
+    <enunciado>¿Cual de las siguientes configuraciones es más segura?</enunciado>
+    <opcionA>Configuración de DMZ doble.</opcionA>
+    <opcionB>Configuración de DMZ tradicional.</opcionB>
+    <opcionC>Configuración de DMZ simple.</opcionC>
+    <opcionD>Configuración sin DMZ.</opcionD>
+    <solucion>A</solucion>
+</pregunta>
