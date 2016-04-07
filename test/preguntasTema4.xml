@@ -1,0 +1,17 @@
+<pregunta>
+    <enunciado>¿Que se consigue con el balanceo de carga global?</enunciado>
+    <opcionA>Distribuir la carga entre varios centros.</opcionA>
+    <opcionB>Evitar retrasos en las comunicaciones.</opcionB>
+    <opcionC>Redundancia ante errores.</opcionC>
+    <opcionD>Todas son correctas.</opcionD>
+    <solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+    <enunciado>¿Cual de las siguientes tareas no es realizada por el balanceador?</enunciado>
+    <opcionA>Comprobar la disponibilidad de los servidores.</opcionA>
+    <opcionB>Sirven contenido dinámico.</opcionB>
+    <opcionC>Protección ante ataques.</opcionC>
+    <opcionD>Derivar en función del tipo de tráfico.</opcionD>
+    <solucion>B</solucion>
+</pregunta>
