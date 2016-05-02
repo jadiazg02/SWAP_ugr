@@ -1,0 +1,17 @@
+<pregunta>
+    <enunciado>¿Cuál de las siguientes no es un tipo de prueba para medir las prestaciones de un servidor web?</enunciado>
+    <opcionA>Smoke.</opcionA>
+    <opcionB>Micro Focus.</opcionB>
+    <opcionC>Capacity.</opcionC>
+    <opcionD>Stress.</opcionD>
+    <solucion>B</solucion>
+</pregunta>
+
+<pregunta>
+    <enunciado>¿Cual de los siguientes tipos de trafico genera más conexiones por segundo?</enunciado>
+    <opcionA>HTTP.</opcionA>
+    <opcionB>FTP.</opcionB>
+    <opcionC>Streaming.</opcionC>
+    <opcionD>Tienda web.</opcionD>
+    <solucion>A</solucion>
+</pregunta>
