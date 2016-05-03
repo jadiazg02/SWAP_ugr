@@ -12,9 +12,9 @@ El comando usado ha sido el siguiente:
 
 Los resultados podemos verlos en la siguiente imagen. 
 
-![Con titulo](https://github.com/joseangeldiazg/SWAP_ugr/blob/master/pantallazosSWAP3/ab1.png "Tablas parametros AB.")
+![Con titulo](https://github.com/joseangeldiazg/SWAP_ugr/blob/master/pantallazosSWAP4/ab1.png "Tablas parametros AB.")
 
-![Con titulo](https://github.com/joseangeldiazg/SWAP_ugr/blob/master/pantallazosSWAP3/ab2.png "Gráficas parametros AB.")
+![Con titulo](https://github.com/joseangeldiazg/SWAP_ugr/blob/master/pantallazosSWAP4/ab2.png "Gráficas parametros AB.")
 
 ##Pruebas usando Siege:
 
@@ -25,9 +25,9 @@ El comando usado ha sido el siguiente:
 
 Los resultados podemos verlos en la siguiente imagen. 
 
-![Con titulo](https://github.com/joseangeldiazg/SWAP_ugr/blob/master/pantallazosSWAP3/siege1.png "Tablas parametros Siege.")
+![Con titulo](https://github.com/joseangeldiazg/SWAP_ugr/blob/master/pantallazosSWAP4/siege1.png "Tablas parametros Siege.")
 
-![Con titulo](https://github.com/joseangeldiazg/SWAP_ugr/blob/master/pantallazosSWAP3/siege2.png "Gráficas parametros Siege.")
+![Con titulo](https://github.com/joseangeldiazg/SWAP_ugr/blob/master/pantallazosSWAP4/siege2.png "Gráficas parametros Siege.")
 
 
 ##Pruebas usando HTPERF:
@@ -39,7 +39,7 @@ httperf --server 192.168.56.4 --port 80 --uri /pract1.html --rate 150 --num-conn
 
 Los resultados podemos verlos en la siguiente imagen. 
 
-![Con titulo](https://github.com/joseangeldiazg/SWAP_ugr/blob/master/pantallazosSWAP3/htperf1.png "Tablas parametros Htperf.")
+![Con titulo](https://github.com/joseangeldiazg/SWAP_ugr/blob/master/pantallazosSWAP4/htperf1.png "Tablas parametros Htperf.")
 
-![Con titulo](https://github.com/joseangeldiazg/SWAP_ugr/blob/master/pantallazosSWAP3/htperf2.png "Gráficas parametros Htperf.")
+![Con titulo](https://github.com/joseangeldiazg/SWAP_ugr/blob/master/pantallazosSWAP4/htperf2.png "Gráficas parametros Htperf.")
 
