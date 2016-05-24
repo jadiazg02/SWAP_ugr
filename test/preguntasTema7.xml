@@ -1,0 +1,18 @@
+<pregunta>
+    <enunciado>Si tenemos un RAID 0 podemos asegurar que...</enunciado>
+    <opcionA>La proteccion contra fallos será considerable. </opcionA>
+    <opcionB>La velocidad de escritura y lectura será mayor.</opcionB>
+    <opcionC>Podremos acceder a varios bloques al mismo tiempo.</opcionC>
+    <opcionD>A y C son correctas.</opcionD>
+    <solucion>D</solucion>
+</pregunta>
+
+
+<pregunta>
+    <enunciado>¿Cual de las siguientes afirmaciones sobre RAID 5 es falsa?</enunciado>
+    <opcionA>RAID 5 divide los datos en nivel de bloques.</opcionA>
+    <opcionB>Necesitamos al menos 5 discos para configurarlo.</opcionB>
+    <opcionC>Las escrituras son costodas.</opcionC>
+    <opcionD>Introduce información de paridad distribuida.</opcionD>
+    <solucion>B</solucion>
+</pregunta>

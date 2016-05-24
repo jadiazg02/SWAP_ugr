@@ -1,0 +1,18 @@
+<pregunta>
+    <enunciado>¿Cual de las siguientes no es una medida de seguridad a tener en cuenta?</enunciado>
+    <opcionA>Ambiente refrigerado en la sala de ubicacion de servidores.</opcionA>
+    <opcionB>Usar cortafuegos en el acceso de nuestro servidor.</opcionB>
+    <opcionC>Uso de escaners biometricos en los accesos.</opcionC>
+    <opcionD>Todas las anteriores son medidas de seguridad a tener en cuenta.</opcionD>
+    <solucion>D</solucion>
+</pregunta>
+
+
+<pregunta>
+    <enunciado>Al configurar correctamente la seguridad de un servidor, ¿Podemos olvidarnos de su mantenimiento?</enunciado>
+    <opcionA>No. Hay que realizar un mantenimiento continuo par añadir nuevos parches de seguridad ante nuevos ataques que pueden ir surgiendo.</opcionA>
+    <opcionB>Si, siempre y cuando tengamos una buena configuración.</opcionB>
+    <opcionC>Si.</opcionC>
+    <opcionD>Solo si disponemos de un cortafuegos bien configurado.</opcionD>
+    <solucion>A</solucion>
+</pregunta>
