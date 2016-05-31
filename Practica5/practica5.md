@@ -84,6 +84,18 @@ Por último si todo ha ido bien, ejecutando el SHOW SLAVE STATUS podemos ver que
 ![Con titulo](https://github.com/joseangeldiazg/SWAP_ugr/blob/master/pantallazosSWAP5/maestro4.png "Comprobación.")
 
 
+##Replicación de BD mediante una configuración maestro-maestro.
+
+Debemos realizar la misma configuracion que hemos realizado en uno, en los dos, es decir, crear un usuario, darle los permisos necesarios... 
+
+![Con titulo](https://github.com/joseangeldiazg/SWAP_ugr/blob/master/pantallazosSWAP5/mm1.png "Configuracion del primer maestro.")
+
+![Con titulo](https://github.com/joseangeldiazg/SWAP_ugr/blob/master/pantallazosSWAP5/mm2.png "Configuracion del segundo maestro.")
+
+Por último podemos ver como al crear tablas en una máquina, estas se replican a la siguiente y viceversa. 
+
+![Con titulo](https://github.com/joseangeldiazg/SWAP_ugr/blob/master/pantallazosSWAP5/mm3.png "Prueba de la configuracion maestro-maestro.")
+
 
 
 
